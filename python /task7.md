@@ -73,3 +73,4 @@ else:
  1234321
 123454321
 # screenshot
+<img width="493" height="226" alt="WhatsApp Image 2026-11-02 at 7 26 32 PM (6)" src="https://github.com/user-attachments/assets/03512b68-587d-4ef7-b242-b566668572ab" />
