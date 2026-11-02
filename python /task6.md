@@ -83,3 +83,4 @@ else:
   # Sample Output
     Password is Valid
    # screenshot
+<img width="487" height="141" alt="WhatsApp Image 2026-11-02 at 7 26 32 PM (5)" src="https://github.com/user-attachments/assets/69743e84-f517-4a46-a388-1ec028ca6d98" />
